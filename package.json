@@ -1,0 +1,12 @@
+{
+  "name": "lead-score-elev",
+  "version": "2.0.0",
+  "description": "Lead scoring för Musikglädjen - beräknar avstånd mellan elever och lärare/ansökningar",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "airtable": "^0.12.2"
+  }
+}
